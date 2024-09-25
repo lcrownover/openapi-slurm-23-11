@@ -1,5 +1,4 @@
 .gitignore
-.openapi-generator-ignore
 .travis.yml
 README.md
 api/openapi.yaml
@@ -371,6 +370,4 @@ model_v0_0_40_users_add_cond.go
 model_v0_0_40_wckey.go
 model_v0_0_40_wckey_tag_struct.go
 response.go
-test/api_slurm_test.go
-test/api_slurmdb_test.go
 utils.go

@@ -58,7 +58,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -126,7 +126,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -224,7 +224,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -322,7 +322,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -410,7 +410,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -478,7 +478,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -546,7 +546,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -614,7 +614,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -688,7 +688,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -758,7 +758,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -856,7 +856,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -954,7 +954,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -1042,7 +1042,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -1106,7 +1106,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -1165,7 +1165,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -1224,7 +1224,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -1302,7 +1302,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -1382,7 +1382,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -1450,7 +1450,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -1594,7 +1594,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -1668,7 +1668,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -1738,7 +1738,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -1797,7 +1797,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -1873,7 +1873,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -1951,7 +1951,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -2019,7 +2019,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -2101,7 +2101,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -2165,7 +2165,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -2229,7 +2229,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -2293,7 +2293,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -2359,7 +2359,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -2423,7 +2423,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -2499,7 +2499,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -2563,7 +2563,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -2627,7 +2627,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
@@ -2695,7 +2695,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/GIT_USER_ID/GIT_REPO_ID"
+	openapiclient "github.com/lcrownover/openapi-slurm-23-11"
 )
 
 func main() {
